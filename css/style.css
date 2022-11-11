@@ -4,6 +4,8 @@ body {
 .head {
     height: 60px;
     margin: 0;
+    padding: 0;
+    width: 100%;
     background-color: #505050;
     border-radius: 20px;
 }
@@ -21,4 +23,7 @@ body {
 .flex-box {
     display: flex;
     flex-wrap: wrap;
+}
+.card {
+    width: 100%;
 }
